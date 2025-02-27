@@ -6,7 +6,7 @@ Al iniciar mi carrera empecé a desarrollar programas de escritorio utilizando J
 # Hoja de vida
 - [DESARROLLADOR ANDROID](https://drive.google.com/file/d/18SmajBKKGtilsWas-lN-RBKeSy5NhAiy/view)
 - 3+ AÑOS DE EXPERIENCIA 
-- 8+ PROYECTOS REALIZADOS
+- 10+ PROYECTOS REALIZADOS
 
 # Conocimientos técnicos
 - Koltin
