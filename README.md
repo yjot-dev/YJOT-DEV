@@ -1,3 +1,5 @@
+![Portada Play Console](https://github.com/user-attachments/assets/31d57659-7b80-427a-b75d-da3db629b560)
+
 # ACERCA DE MÍ
 Bienvenidos, mi nombre es Yasser Ortiz T. Soy ingeniero de sistemas, graduado en la Universidad Técnica de Machala. 
 
